@@ -1,0 +1,22 @@
+.jumbotron.jumbotron-fluid {
+    height: 120px;
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+.card-header:first-child{
+    text-align: center;
+}
+input#yob {
+   margin-left: 15px;
+}
+.padit {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+label.form-check-label {
+    margin-left: 55px;
+}
+/*
+.ms-options {
+    margin-left: 15px;
+}*/
